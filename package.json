@@ -1,0 +1,11 @@
+{
+  "name": "typesmith-write-json",
+  "version": "1.0.0",
+  "description": "typesmith plugin that writes the database out to a JSON file. Good for testing.",
+  "main": "lib/typesmith-write-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robb Surridge",
+  "license": "MIT"
+}
