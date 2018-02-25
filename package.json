@@ -9,6 +9,7 @@
   "author": "Robb Surridge",
   "license": "MIT",
   "dependencies": {
-    "fs-extra": "^5.0.0"
+    "fs-extra": "^5.0.0",
+    "merge-options": "^1.0.0"
   }
 }
